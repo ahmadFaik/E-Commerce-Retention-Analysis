@@ -1,5 +1,7 @@
 # 🚀 E-Commerce Retention Analysis
 
+![E-Commerce-Retention-Analysis](docs/Retention-Analysis.gif)
+
 Unlocking the secrets behind customer loyalty and repeat purchases in the fast-paced world of e-commerce. This project dives deep into user behavior to fuel smarter business decisions and drive sustainable growth.
 
 ---
